@@ -14,7 +14,7 @@
 
 <p align="center"> 
 
-[![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg)](https://www.python.org/) 
+<a> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/47d61395-144d-46aa-ae82-58b259cd9b70" alt="Python" height="60"/> </a> 
   
 <a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/e260c407-0449-4919-a8a7-d5f491bcf7ca" height="85"/> </a> 
 
