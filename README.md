@@ -14,9 +14,7 @@
 
 <p align="center"> 
 
-<a href="https://www.w3schools.com/">
-  <img src="https://example.com/path/to/your/image.png" alt="Python" height="60"/>
-</a>
+[![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg)](https://www.python.org/) 
   
 <a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/e260c407-0449-4919-a8a7-d5f491bcf7ca" height="85"/> </a> 
 
